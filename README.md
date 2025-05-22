@@ -1,0 +1,2 @@
+# MRes-Project
+Investigating the relative abundance of carbon monoxide-metabolizing prokaryotes in the rice phyllosphere of indica and japonica sub-species, and their correlation with lignin precursors and secondary metabolites from rice crops.
