@@ -1,1 +1,12 @@
-
+(main-folder) RAST
+|-(folder) faa: This folder contains RAST output of every MAGs in .faa files which containing the fasta aminoacid sequences.
+|
+|-(folder) xls: This folder contains RAST output of every MAGs in excel file (.xls)
+|
+|-(folder) summary
+||--(folder) faa: This folder contains FAA files with protein sequence of CoxL proteins found from RAST for every MAGs in separate files.
+||--(folder) fna: This folder contains FNA files with nucleotide sequence of coxL genes found from RAST for every MAGs in separate files.
+||--(folder) cross_verification: This folder contains CSV files with conserved domain hits of the coxL genes found from RAST in separate files named with the MAG name.
+||--(file) codh.csv: This CSV file contains list of all sequences with CODH function
+||--(file) codh_motif.csv: This CSV file contains MOTIF search output for sequencing in codh.csv file
+||--(file) rast.csv: This file contains combined data of all RAST output from excel files in 'RAST/xls' folder
