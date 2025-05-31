@@ -1,1 +1,4 @@
-
+(main-folder) Deinococcus_gobiensis_I-0
+|-(file) Deinococcus_gobiensis_I-0_genome.fna: This FNA file contains the genome of cultured Deinococcus gobiensis I-0 downloaded from NCBI
+|-(file) Deinococcus_gobiensis_I-0_rast.csv: This CSV file contains the RAST analysis of the Deinococcus gobiensis I-0 genome
+|-(file) filtered_Deinococcus_gobiensis_I-0_rast.faa: This FAA file contains the sequence of proteins related to carbon monoxide dehydrogenase from Deinococcus gobiensis I-0
