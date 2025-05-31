@@ -1,6 +1,7 @@
 
 (main-folder) CoverM
-|-(file) batch1.tsv upto batch29.tsv: Total 29 files containing relative abundance data of 569 MAG in Metagenomes from indica and japonica rice sub-species which is calculated using CoverM software. It is input file required for the analysis carried out in CoxL_Carriers_distribution.ipynb file.
+|-(file) batch1.tsv upto batch29.tsv: Total 29 files containing relative abundance data of 569 MAG in Metagenomes from indica and japonica rice sub-species which is calculated using CoverM software. It is input file required for the analysis carried out in CoxL_Carriers_distribution.ipynb file
+|
 |-(file) average_lignin.csv: This CSV file contains the concentration of lignin precursors and scopolectin present in every rice cultivar.
 
 This folder also contains output files of the analysis carried in CoxL_Carriers_distribution.ipynb file, which includes some images and CSV files.
