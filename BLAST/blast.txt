@@ -1,34 +1,35 @@
+(main-folder) BLAST
 |-(folder) CoxL 1: CoxL form 1 protein database
-
+|
 |-(folder) CoxL 2: CoxL form 2 protein database
-
+|
 |-(folder) CoxL1_Results
-|--(folder) csv: This folder contains BLAST hit outputs for CoxL form 1 proteins of every MAG in separate .csv files
-|--(folder) docs: This folder contains BLAST hits outputs for CoxL form 1 proteins of every MAGs in separate .docs (words) files
-|--(folder) fasta: This folder contains BLAST hits outputs for CoxL form 1 proteins of every MAGs in separate .fasta (aligned aminoacid sequences) files
-|--(folder) MOTIF_filtered_proteins: This folder contains .faa files with protein sequences that contain MOTIF, extracted form BLAST hits FASTA output files
-|--(folder) MOTIF_proteins: This folder contains .faa files with protein sequences that contain MOTIF that are translated from nucleotide sequences using Prodigal software
+||--(folder) csv: This folder contains BLAST hit outputs for CoxL form 1 proteins of every MAG in separate .csv files
+||--(folder) docs: This folder contains BLAST hits outputs for CoxL form 1 proteins of every MAGs in separate .docs (words) files
+||--(folder) fasta: This folder contains BLAST hits outputs for CoxL form 1 proteins of every MAGs in separate .fasta (aligned aminoacid sequences) files
+||--(folder) MOTIF_filtered_proteins: This folder contains .faa files with protein sequences that contain MOTIF, extracted form BLAST hits FASTA output files
+||--(folder) MOTIF_proteins: This folder contains .faa files with protein sequences that contain MOTIF that are translated from nucleotide sequences using Prodigal software
 ||--(folder) MOTIF
-||---(folder) duplicate_list: This folder contains text files for each MAG with list of duplicate hits.
-||---(folder) fasta: This folder contains FASTA files for each MAG with BLAST hit query nucleotide sequences, which conaining either form 1 or form 2 MOTIF region
-||---(file) cds1.csv: This CSV file contains the conserved domain hit for the sequences with MOTIF
-||---(file) coxl1_csv.csv: This CSV file contains details of CoxL form 1 protein BLAST hits
-||---(file) filtered_coxl1_csv.csv: This CSV file contains details of filtered CoxL form 1 protein BLAST hits
-||---(file) coxl1_motif_search.csv: This CSV file contains list of sequences and the MOTIF found in the respective sequence
-||---(file) coxl1_motif_results.csv: This CSV file contains shortlist list of sequences and the MOTIF found in the respective sequence
-
+|||---(folder) duplicate_list: This folder contains text files for each MAG with list of duplicate hits.
+|||---(folder) fasta: This folder contains FASTA files for each MAG with BLAST hit query nucleotide sequences, which conaining either form 1 or form 2 MOTIF region
+|||---(file) cds1.csv: This CSV file contains the conserved domain hit for the sequences with MOTIF
+|||---(file) coxl1_csv.csv: This CSV file contains details of CoxL form 1 protein BLAST hits
+|||---(file) filtered_coxl1_csv.csv: This CSV file contains details of filtered CoxL form 1 protein BLAST hits
+|||---(file) coxl1_motif_search.csv: This CSV file contains list of sequences and the MOTIF found in the respective sequence
+|||---(file) coxl1_motif_results.csv: This CSV file contains shortlist list of sequences and the MOTIF found in the respective sequence
+|
 |-(folder) CoxL2_Results
-|--(folder) csv: This folder contains BLAST hit outputs for CoxL form 2 proteins of every MAG in separate .csv files
-|--(folder) docs: This folder contains BLAST hits outputs for CoxL form 2 proteins of every MAGs in separate .docs (words) files
-|--(folder) fasta: This folder contains BLAST hits outputs for CoxL form 2 proteins of every MAGs in separate .fasta (aligned aminoacid sequences) files
-|--(folder) Cross_Verification: This folder contains .csv files for each MAG (Only the sequences with MOTIF) downloaded from NCBI-CDD that contains the list of conserved domain hits. The nucleotide sequences are directly uploaded to NCBI-CDD
-|--(folder) MOTIF_filtered_proteins: This folder contains .faa files with protein sequences that contain MOTIF, extracted form BLAST hits FASTA output files
-|--(folder) MOTIF_proteins: This folder contains .faa files with protein sequences that contain MOTIF that are translated from nucleotide sequences using Prodigal software
+||--(folder) csv: This folder contains BLAST hit outputs for CoxL form 2 proteins of every MAG in separate .csv files
+||--(folder) docs: This folder contains BLAST hits outputs for CoxL form 2 proteins of every MAGs in separate .docs (words) files
+||--(folder) fasta: This folder contains BLAST hits outputs for CoxL form 2 proteins of every MAGs in separate .fasta (aligned aminoacid sequences) files
+||--(folder) Cross_Verification: This folder contains .csv files for each MAG (Only the sequences with MOTIF) downloaded from NCBI-CDD that contains the list of conserved domain hits. The nucleotide sequences are directly uploaded to NCBI-CDD
+||--(folder) MOTIF_filtered_proteins: This folder contains .faa files with protein sequences that contain MOTIF, extracted form BLAST hits FASTA output files
+||--(folder) MOTIF_proteins: This folder contains .faa files with protein sequences that contain MOTIF that are translated from nucleotide sequences using Prodigal software
 ||--(folder) MOTIF
-||---(folder) duplicate_list: This folder contains text files for each MAG with list of duplicate hits.
-||---(folder) fasta: This folder contains FASTA files for each MAG with BLAST hit query nucleotide sequences, which conaining either form 1 or form 2 MOTIF region
-||---(file) cds2.csv: This CSV file contains the conserved domain hit for the sequences with MOTIF
-||---(file) coxl2_csv.csv: This CSV file contains details of CoxL form 2 protein BLAST hits
-||---(file) filtered_coxl2_csv.csv: This CSV file contains details of filtered CoxL form 2 protein BLAST hits
-||---(file) coxl2_motif_search.csv: This CSV file contains list of sequences and the MOTIF found in the respective sequence
-||---(file) coxl2_motif_results.csv: This CSV file contains shortlist list of sequences and the MOTIF found in the respective sequence
+|||---(folder) duplicate_list: This folder contains text files for each MAG with list of duplicate hits.
+|||---(folder) fasta: This folder contains FASTA files for each MAG with BLAST hit query nucleotide sequences, which conaining either form 1 or form 2 MOTIF region
+|||---(file) cds2.csv: This CSV file contains the conserved domain hit for the sequences with MOTIF
+|||---(file) coxl2_csv.csv: This CSV file contains details of CoxL form 2 protein BLAST hits
+|||---(file) filtered_coxl2_csv.csv: This CSV file contains details of filtered CoxL form 2 protein BLAST hits
+|||---(file) coxl2_motif_search.csv: This CSV file contains list of sequences and the MOTIF found in the respective sequence
+|||---(file) coxl2_motif_results.csv: This CSV file contains shortlist list of sequences and the MOTIF found in the respective sequence
