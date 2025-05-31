@@ -1,3 +1,4 @@
 (main-folder) Lignin_Precursors
 |-(file) coverm.csv: This CSV file contains the relative abundance of all MAGs in all metagenomes. This is one of the output files of CoxL_Carriers_distribution.ipynb file in CoverM folder
+|
 |-(file) average_lignin.csv: This CSV file contains the concentration of lignin precursor and scopolectin from each rice cultivar. This file is the output of "Lignin Prcursor.ipynb"
