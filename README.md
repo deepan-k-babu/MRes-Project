@@ -40,7 +40,7 @@ Inside each folder, there is a .txt file named after the folder itself. For exam
 
 | <- (A break between two folders structure)
 
-| Folder 2: description (this is inside main-folder)
+|-folder Folder 2: description (this is inside main-folder)
 
 ||--file filename.extension: description (this is inside Folder 2)
 
