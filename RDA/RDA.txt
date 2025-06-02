@@ -1,1 +1,2 @@
-
+(main-folder) RDA
+-file coxl_lignin_precursor.csv: This CSV file contains the relative abundance of all MAGs in all the metagenomes, as well as the lignin precursor concentration of cultivars from the respective metagenome sources. This serves as the input file for redundancy analysis.
