@@ -10,6 +10,7 @@ The input files are from one of my supervisors previous work. The articles where
 3) Lignin Precursor concentration excel file: (Article not published yet, once available the link will be attached here)
 
 ## Process Flowchart
+The process how the coxL gene carrying geneomes are identified is explained in the below flow chart.
 ![The process how the coxL gene carrying geneomes are identified is explained in the flow chart.](Raw_Data/work_flow.jpg)
 
 ## Folder Architecture
@@ -17,19 +18,30 @@ Inside each folder, there is a .txt file named after the folder itself. For exam
 
 ### Basics
 -file : referes it is a file
+
 -folder : referes it is a folder
 
 ### Structure
 (main-folder) Parent Folder Name (ex: BLAST)
+
 |-folder Folder 1: description (this is inside main-folder)
+
 ||--folder Sub-folder 1: description (this is inside Folder 1)
+
 ||--folder Sub-folder 2: description (this is inside Folder 1)
+
 |||---folder Folder inside Sub-folder: description (this is inside Sub-Folder 2)
+
 ||--folder Sub-folder 3: (this is inside Folder 1)
+
 |||---folder Folder inside Sub-folder: description (this is inside sub-folder 3)
+
 |||---file filename.extension (ex: mag.csv): description (this is inside sub-folder 3)
+
 | <- (A break between two folders structure)
+
 | Folder 2: description (this is inside main-folder)
+
 ||--file filename.extension: description (this is inside Folder 2)
 
 ## Short Description of Computer languages used
