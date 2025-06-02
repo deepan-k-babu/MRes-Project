@@ -44,5 +44,5 @@ Inside each folder, there is a .txt file named after the folder itself. For exam
 
 ||--file filename.extension: description (this is inside Folder 2)
 
-## Short Description of Computer languages used
+## Short Description on Computer Languages Used
 The analysis is mostly done using Python in Jupyter Notebook except redundancy analysis which uses R language. The redundancy analysis files are in the folder RDA.
