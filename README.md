@@ -7,7 +7,7 @@ Investigating the relative abundance of carbon monoxide-metabolizing prokaryotes
 The input files are from one of my supervisors previous work. The articles where you get the file are listed below.
 1) Metagenomic Assembled Genomes accession number excel file: ["Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes"](https://doi.org/10.1038/s41597-022-01320-7) and go to the supplementary data 2.
 2) Rice Cultivars accession and the Metagenomes accession excel file: ["Microbiome homeostasis on rice leaves is regulated by a precursor molecule of lignin biosynthesis"](https://doi.org/10.1038/s41467-023-44335-3) and go to the Supplimentary Data 1.
-3) Lignin Precursor concentration excel file: (Article not published yet, once available the link will be attached here)
+3) Lignin Precursor concentration excel file: ["Host metabolites explain microbiome variation between different rice genotypes."](https://doi.org/10.1186/s40168-025-02181-z) and go to the supplementary material 7.
 
 ## Process Flowchart
 The process how the coxL gene carrying geneomes are identified is explained in the below flow chart.
