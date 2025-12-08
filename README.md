@@ -1,7 +1,7 @@
-# Rice Phyllosphere and Trace Gases Metabolisers
+# Trace Gas Utilisation by the Rice Phyllosphere Microbiome
 
 ## Description
-Investigating the relative abundance of carbon monoxide-metabolizing bacteria in the rice phyllosphere of *indica* and *japonica* sub-species, and their correlation with the concentrations of lignin precursors and secondary metabolites synthesised by rice crops.
+An investigation into the relative abundance of carbon monoxide-metabolizing bacteria in the phyllosphere of *indica* versus *japonica* rice subspecies, correlating their prevalence with host concentrations of lignin precursors and associated secondary metabolites.
 
 ## Input Files
 The input files are from one of my supervisors previous work. The articles where you get the file are listed below.
